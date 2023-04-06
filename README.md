@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuzyfu
 - 👀 I’m interested in CG/Animation/ShortFilm
-- 🌱 I’m currently learning python in Maya.
+- 🌱 I’m currently learning C++ and Unreal.
 - 💞️ I’m looking to collaborate on character design.
 - 📫 How to reach me making things easy.
 <!---
